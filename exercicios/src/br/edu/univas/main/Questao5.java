@@ -25,12 +25,13 @@ public class Questao5 {
 		calculaDiaSeguinte(30, 11, 2020);
 		calculaDiaSeguinte(31, 12, 2020);
 		
+		
 	}
 	
 	/**
 	 * Execute the calc about the next day
-	 * @param dia interger that represents a day
-	 * @param mes interger that represents a month
+	 * @param dia integer that represents a day
+	 * @param mes integer that represents a month
 	 * @param ano integer that represents a year 
 	 * @return String the next day in the format: dd/MM/YYYY
 	 */
