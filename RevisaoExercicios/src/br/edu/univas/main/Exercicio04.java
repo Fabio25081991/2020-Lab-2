@@ -1,9 +1,9 @@
 package br.edu.univas.main;
 
-public class Questao4 {
+public class Exercicio04 {
 
 	public static void main(String[] args) {
-		int resultado = verificaAnoBissexto(2020);
+		int resultado = verificaAnoBissexto(2019);
 		System.out.println(resultado);
 	}
 	
